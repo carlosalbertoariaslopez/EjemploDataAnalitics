@@ -1,7 +1,5 @@
-#EjemploDataAnalitics
-#Ejemplo Numero 2
-#Ejemplo Numero 3
-#Ejemplo Numero $
+# EjemploDataAnalitics
+
 Ejemplo de Data Analitica
 -----------------------------------
 |No.	|Nombre	 |Link de Acceso 
@@ -11,9 +9,9 @@ Ejemplo de Data Analitica
 
 
 
-2	Analisis de Datos	
-3	Visualización	
-4	Ciencia de Datos	
-5	Ingeniería de Datos	
+#	Analisis de Datos	
+#	Visualización	
+#	Ciencia de Datos	
+#	Ingeniería de Datos	
 
 
